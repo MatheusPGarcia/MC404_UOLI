@@ -1,7 +1,7 @@
 # MC404_UOLI
 Trabalho final de MC404 2s2017
 
-Não tirei nota maxima, tirei 8,5, porém a Soul foi muito bem documentada por mim e pelo João, espero que possa ajudar a quem consulte isso.
+Não tirei nota maxima, tirei 8.5, porém a Soul foi muito bem documentada por mim e pelo João, espero que possa ajudar a quem consulte isso.
 
 Boa sorte!
 
